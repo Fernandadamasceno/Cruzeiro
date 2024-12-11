@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgb(102, 155, 50);
+  background-image: url(./496f7628b38e3703fdf79e2651849a66.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100% 130vh;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+header h1 {
+  width: 65vh;
+  text-align: center;
+  color: brown;
+  font-size: 8vh;
+}/*# sourceMappingURL=style.css.map */
